@@ -1,0 +1,157 @@
+.wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+#logo {
+  width: 250px;
+  height: 114px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Istok Web', serif;
+  font-size: 18px;
+  color: #47484B;
+}
+
+.clear {
+  clear: both;
+}
+
+header {
+  width: 100%;
+  height: 140px;
+}
+
+header img {
+  margin-top: 15px;
+  margin-left: 15px;
+  float: left;
+}
+
+.nav {
+  float: right;
+}
+
+.nav ul {
+  margin-top: 63px;
+  }
+
+.nav ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.nav ul li a {
+  font-weight: 500;
+  font-size: 14px;
+  text-decoration: none;
+  color: #47484B;
+  text-transform: uppercase;
+
+}
+
+.nav a:hover {
+  color: #BABABA;
+}
+
+.tirerack img {
+  height: 400px;
+  margin-top: 60px;
+  margin-right: 50px;
+  float: right;
+}
+
+.intro {
+  width: 100%;
+  padding: 50px 0;
+  background-color: #eaeaea;
+}
+
+.makeItEasy {
+  text-align: center;
+}
+
+.leftColumn {
+  width:300px;
+  height: 400px;
+  margin-right: 30px;
+  float: left;
+  text-align: center;
+}
+
+.centerColumn {
+  width: 300px;
+  height: 400px;
+  margin-right: 30px;
+  float: left;
+  text-align: center;
+}
+
+.rightColumn {
+  width: 300px;
+  height: 400px;
+  float: left;
+  text-align: center;
+}
+
+.red {
+  color: #D70000;
+}
+
+.hours-list ul li {
+  list-style: none;
+}
+
+.hours-list ul {
+  /*float: left;*/
+}
+
+h1, h2 {
+  font-family: Passion One;
+}
+
+.clipart {
+  height: 125px;
+}
+
+.makeItEasy {
+  margin: 50px 0;
+}
+
+.banner {
+  width: 100%;
+  height: 200px;
+  background-color: #D70000;
+}
+
+.hours-list {
+  text-align: center;
+}
+
+.hours-list ul li {
+  padding-right: 30px;
+}
+
+.best {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: -10px;
+}
+
+.footer {
+  color: #fff;
+  text-align: center;
+  padding-top: 10px;
+  background-color: black;
+  height: 150px;
+  width: 100%
+}
+
+.footer ul {
+  list-style: none;
+  text-align: center;
+  padding-right: 30px;
+}
