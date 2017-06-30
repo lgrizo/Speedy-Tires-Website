@@ -40,7 +40,6 @@ body {
 .intro p {
   margin: auto;
   width: 90%;
-  text-align: center;
 }
 
 .intro h2 {
@@ -69,6 +68,10 @@ body {
   margin: auto;
 }
 
+.leftColumn p {
+  text-align: left;
+}
+
 .centerColumn {
   width: 300px;
   height: 380px;
@@ -76,11 +79,19 @@ body {
   text-align: center;
 }
 
+.centerColumn p {
+  text-align: left;
+}
+
 .rightColumn {
   width: 300px;
   height: 390px;
   margin: auto;
   text-align: center;
+}
+
+.rightColumn p {
+  text-align: left;
 }
 
 .red {
