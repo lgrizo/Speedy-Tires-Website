@@ -54,7 +54,8 @@ ul {
 }
 
 .intro {
-  padding: 10px 0;
+  padding: 20px 0;
+  padding-bottom: 40px;
   background-color: #eaeaea;
 }
 
@@ -148,7 +149,8 @@ h1, h2 {
 }
 
 @media (min-width: 769px) {
-  .main-header, .navigation {
+  .main-header,
+  .navigation {
     display: flex;
   }
 
@@ -175,6 +177,14 @@ h1, h2 {
   .intro p {
     margin: auto;
     width: 100%;
+  }
+
+  .intro h2 {
+    width: auto;
+  }
+
+  .columns {
+    display: flex;
   }
 
 
