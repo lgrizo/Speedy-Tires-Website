@@ -103,6 +103,7 @@ ul {
 .hours-list ul {
   list-style: none;
   padding: 0;
+  padding-bottom: 20px;
 }
 
 h1, h2 {
